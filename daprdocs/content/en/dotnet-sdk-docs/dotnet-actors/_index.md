@@ -2,7 +2,7 @@
 type: docs
 title: "Getting started with the Dapr actors .NET SDK"
 linkTitle: "Actors"
-weight: 100000
+weight: 40000
 description: Try out .NET virtual actors with this example
 ---
 
